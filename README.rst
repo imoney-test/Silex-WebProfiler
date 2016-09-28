@@ -1,5 +1,6 @@
 Silex Web Profiler
 ==================
+[![Build Status](https://travis-ci.org/imoney-test/Silex-WebProfiler.svg?branch=master)](https://travis-ci.org/imoney-test/Silex-WebProfiler)
 
 The Silex Web Profiler service provider allows you to use the wonderful Symfony
 web debug toolbar and the Symfony profiler in your Silex 2.x application.
